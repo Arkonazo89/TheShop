@@ -1,0 +1,13 @@
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.App.exe.config
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.App.exe
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.App.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\Autofac.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.Infrastructure.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.Core.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.Infrastructure.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\Autofac.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\Autofac.xml
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\bin\Debug\TheShop.Core.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\obj\Debug\TheShop.App.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\obj\Debug\TheShop.App.exe
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.App\obj\Debug\TheShop.App.pdb

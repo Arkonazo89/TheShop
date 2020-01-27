@@ -1,0 +1,14 @@
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Core.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Core.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Infrastructure.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Infrastructure.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.Infrastructure.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.Infrastructure.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\bin\Debug\TheShop.Infrastructure.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\bin\Debug\TheShop.Infrastructure.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\bin\Debug\TheShop.Core.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\bin\Debug\TheShop.Core.pdb
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\obj\Debug\TheShop.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\obj\Debug\TheShop.Infrastructure.dll
+C:\Users\Lazar\Documents\Visual Studio 2015\Projects\TheShop\TheShop.Infrastructure\obj\Debug\TheShop.Infrastructure.pdb

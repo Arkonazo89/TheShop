@@ -1,0 +1,8 @@
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.exe.config
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.csprojResolveAssemblyReference.cache
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.exe
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.pdb
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.exe
+c:\users\lazar\documents\visual studio 2015\Projects\TheShop\TheShop\obj\Debug\TheShop.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Data.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShop\bin\Debug\TheShop.Data.pdb

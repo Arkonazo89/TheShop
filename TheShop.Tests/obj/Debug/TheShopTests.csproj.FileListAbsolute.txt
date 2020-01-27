@@ -1,0 +1,12 @@
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShopTests.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShopTests.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\nunit.framework.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShop.exe
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShop.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\nunit.framework.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\nunit.framework.xml
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\obj\Debug\TheShopTests.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\obj\Debug\TheShopTests.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\obj\Debug\TheShopTests.pdb
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShop.Data.dll
+C:\Users\Lazar\documents\visual studio 2015\Projects\TheShop\TheShopTests\bin\Debug\TheShop.Data.pdb
